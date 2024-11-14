@@ -11,6 +11,7 @@ This project implements a relational database model for an e-commerce platform, 
 8. Triggers
 9. Contributions
 10. License
+11. Contact
 ## Project Overview
 This project followed a structured approach to building an e-commerce relational database, where each step focused on ensuring the integrity and efficiency of the database:
 1. Entity-Relationship (ER) Model: The project began with designing the ER model, outlining the key entities (e.g., Customer, Product, Order, etc.) and their relationships. I used both crow-foot notation and min-max cardinality notation to define how the entities interact, ensuring clear, logical data relationships.
@@ -23,8 +24,8 @@ This structured approach allowed me to not only build a functional and efficient
 ## Installation 
 To get started with the project locally, follow the instructions below:
 ### Prequisites
-1. MySQL installed.
-2. Python for generating sample data.
+-  MySQL installed.
+-   Python for generating sample data.
 ### Steps:
 1. Clone the repository
 2. Set up the database by running the provided SQL script.
@@ -50,6 +51,11 @@ Feel free to fork this repository, make changes, and submit pull requests. Contr
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contact
+For any questions and queries, feel free to reach out :
+- Email: reneerobert.0703@gmail.com
+- LinkedIn: Renee Priya Robert 
 
 
 
