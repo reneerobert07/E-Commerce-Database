@@ -1,4 +1,4 @@
--- Question 6 Creating a trigger for a customer trying to open a new return when they already have a pending return
+-- Creating a trigger for a customer trying to open a new return when they already have a pending return
 CREATE TRIGGER prevent_multiple_pending_returns
 BEFORE INSERT ON Return
 FOR EACH ROW
