@@ -40,6 +40,7 @@ Once the database is set up and data is generated, you can query the database to
 4. Tools: DBBrowser, JupyterNotebook
 
 ## Database Schema
+The database is linked in the file under 'ER Model'. 
 
 ## Triggers
 One of the core features of this database is the implementation of triggers to maintain data integrity. The example is linked in the file under 'Triggers'.
